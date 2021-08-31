@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TheWombatKonrad
+- 👀 I’m interested in biology (birds!)
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on nothing so far
+- 📫 You can reach me. I believe in you.
