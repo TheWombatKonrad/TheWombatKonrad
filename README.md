@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @TheWombatKonrad
+- 👋 Hi, I’m Malte
 - 👀 I’m interested in biology (birds!)
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on nothing so far
-- 📫 You can reach me. I believe in you.
